@@ -2,3 +2,4 @@
 add 変更をindexに登録
 commit インデックス状態の記録
 pull リモートリポジトリの内容を取得する
+sugawara すがわら
