@@ -1,2 +1,3 @@
 さるでもわかるgit
 add 変更をindexに登録
+commit インデックス状態の記録
