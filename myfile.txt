@@ -4,3 +4,4 @@ commit インデックス状態の記録
 pull リモートリポジトリの内容を取得する
 sugawara すがわら
 akira あきら
+yohachi よはち
