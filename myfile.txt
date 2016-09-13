@@ -5,3 +5,4 @@ pull リモートリポジトリの内容を取得する
 sugawara すがわら
 akira あきら
 yohachi よはち
+revert target
